@@ -7,6 +7,7 @@ class Acceso extends BaseObject
     public $rol;
     public $usuario;
     public $contrasena;
+    public $datos;
     
     public function login() : bool
     {
