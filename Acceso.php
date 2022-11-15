@@ -33,12 +33,12 @@ class Acceso extends BaseObject
         
     }
     
-    public function formLogin() : string
+    public function resetContrasena() : bool
     {
         
     }
     
-    public function resetContrasena() : bool
+    public function formLogin() : string
     {
         
     }
