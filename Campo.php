@@ -1,5 +1,5 @@
 <?php
-namespace banca;
+namespace portaflex\banca;
 class Campo extends Html
 {
   
